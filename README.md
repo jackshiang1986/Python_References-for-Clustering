@@ -9,8 +9,3 @@ This repository provides some reference notebooks related to clustering methods:
   2. Using Silhouette Score for Evaluation of Clustering Quality by K-Means Method:
      
      In this notebook, we will use Silhouette Score for evaluation of clustering quality by K-Means method.
-     
-     
-     xxxx
-     
-     
